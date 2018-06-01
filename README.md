@@ -1,2 +1,2 @@
 # MBD
-notebooks made for my master
+notebooks made for my master degree
