@@ -1,2 +1,2 @@
 # MBD
-notebooks made for my master
+some of the notebooks used during my master degree
